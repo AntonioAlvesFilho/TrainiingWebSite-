@@ -42,9 +42,9 @@
     position: absolute;
     background-color:rgb(255, 255, 255);
     width: 400px;
-    height: 600px;
+    height: 550px;
     right: 60px;
-    bottom: 60px;
+    bottom: 30px;
     border-radius: 11px;
     color: black;
 }
@@ -64,6 +64,7 @@ label {
 .middle-text {
     color: black;
     font-weight: 600;
+    margin: 10px 0px;
 }
 
 input {
